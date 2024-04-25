@@ -1,5 +1,7 @@
 # CanvasGame
 
+https://james-pitt-dev.github.io/CanvasGame/
+
 CanvasGame is a dynamic, interactive game built using HTML5 Canvas, JavaScript, and CSS.
 
 ## Overview
